@@ -18,6 +18,8 @@ body {
 @media screen and (max-width: 799px) {
     .bg-image {
         position: absolute;
+        max-width: 799px;
+        height: 812px;
     }
 
     .bg-image--top {
