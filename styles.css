@@ -20,6 +20,7 @@ body {
         position: absolute;
         max-width: 799px;
         height: 812px;
+        overflow: hidden;
     }
 
     .bg-image--top {
